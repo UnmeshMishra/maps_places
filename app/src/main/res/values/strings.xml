@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CodeGamma</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="enable_gps">Enable Gps</string>
+    <string name="required_for_this_app">Required for this app</string>
+
+    <string name="enable_now">enable now</string>
+
+    <string name="location_permission_not_granted">Location permission not granted</string>
+
+    <string name="recent_places_label">Recent Places</string>
+
+    <string name="view_saved_places_label">View all saved places</string>
+
+    <string name="recently_visited">Recently Visited</string>
+
+    <string name="no_records_found_message">No records found</string>
+
+    <string name="previous_searches_label">PREVIOUS SEARCHES</string>
+
+</resources>
